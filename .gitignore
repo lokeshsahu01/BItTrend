@@ -1,0 +1,8 @@
+venv/
+venv/*
+**/migrations/*
+*.pyc
+media/*
+static/*
+.idea/
+.idea/*
